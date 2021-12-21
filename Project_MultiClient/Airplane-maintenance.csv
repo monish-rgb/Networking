@@ -1,0 +1,8 @@
+﻿F N,Max Load,Sensors,Engines,LM,HM,Seats,check
+Airbus a3,3000,20,2,Yes,Yes,212,Yes
+Boeing747,5000,35,4,No,No,423,No
+Spicejet,2000,17,2,No,Yes,189,No
+Airbus a2,2500,19,2,Yes,Yes,200,Yes
+DC-8,3000,28,4,Yes,No,196,No
+comac19,2300,30,2,Yes,Yes,230,Yes
+Boeing737,3500,37,2,Yes,Yes,286,Yes
